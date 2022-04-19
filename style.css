@@ -1,6 +1,7 @@
-body {
-    background-color: rgba(65, 99, 133, 0.455);
+body{
+    background-color:gainsboro;
 }
+
 .row{
     float: left;
     margin-left: 20px;
@@ -14,12 +15,14 @@ body {
 }
 
 .footer-content {
+    background-color:gainsboro;
     padding: 4rem 0 2rem 0;
 }
 
 .footer {
     width: 80%;
     height: 40vh;
+    background-color:gainsboro;
     color: black;
     display: flex;
     justify-content: center;
