@@ -1,5 +1,5 @@
 body{
-    background-color:gainsboro;
+    background-color:rgb(246, 122, 59);
 }
 
 .row{
@@ -15,7 +15,6 @@ body{
 }
 
 .footer-content {
-    background-color:gainsboro;
     padding: 4rem 0 2rem 0;
 }
 
